@@ -49,7 +49,6 @@
   <img src="https://github.com/user-attachments/assets/8cc643a3-7593-4b01-86e5-0fe48b80f52f" width="1000" />
 </p>
 
-<br>
 
 ### 2) 도서등록
 ▪ 제목, 작가, 출판사, 보유 수, ISBN 입력 후 등록 버튼 클릭 시 비동기 전송 → DB 저장 → 목록 자동 갱신 <br>
@@ -57,7 +56,6 @@
   <img src="https://github.com/user-attachments/assets/7fd78e69-9cff-4e4f-a47a-9a5576ddc2fb" width="1000" />
 </p>
 
-<br>
 
 ### 3) 도서수정
 ▪ 목록의 수정 버튼 클릭 시 수정 폼 표시 → 보유 도서 수만 수정 가능 → 저장 시 목록 갱신 <br>
