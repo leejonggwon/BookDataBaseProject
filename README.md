@@ -37,7 +37,9 @@
 ▪ JSP + jQuery로 직관적이고 간결한 사용자 UI 제공 <br>
 
 ## 기능설명
-### 도서조회
+### 도서조회/삭제
+▪ 도서조회: 데이터베이스의 모든 도서 정보를 조회하여 테이블로 표시 <br>
+▪ 도서삭제: 삭제 버튼 클릭 시 비동기 요청으로 해당 도서 삭제 후 목록 재출력 <br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8cc643a3-7593-4b01-86e5-0fe48b80f52f" width="1000" />
 </p>
@@ -45,29 +47,25 @@
 <br>
 <br>
 
-## 메인페이지(공지사항)
+### 도서등록
+▪ 제목, 작가, 출판사, 보유 수, ISBN 입력 후 등록 버튼 클릭 시 비동기 전송 → DB 저장 → 목록 자동 갱신 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7e1e3fa0-74a2-41fd-8e4c-8b4dc35a0aba" width="500" />
+  <img src="https://github.com/user-attachments/assets/7fd78e69-9cff-4e4f-a47a-9a5576ddc2fb" width="1000" />
 </p>
 
 <br>
 <br>
 
-## 커뮤니티
+### 도서수정
+▪ 목록의 수정 버튼 클릭 시 수정 폼 표시 → 보유 도서 수만 수정 가능 → 저장 시 목록 갱신 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/282b4579-32ec-4b63-9685-37db1411c2d3" width="500" />
+  <img src="https://github.com/user-attachments/assets/3777cc29-f608-44b4-aad4-f5081ec42ae7" width="1000" />
 </p>
 
 <br>
 <br>
 
-## 게시물등록 기능
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5a3d3e14-6361-4042-a353-57f9c0eab9e9" width="500" />
-</p>
 
-<br>
-<br>
 
 
 
