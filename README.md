@@ -31,6 +31,8 @@
 ▪ 오른쪽에 [등록], [수정], [삭제] 버튼 제공 <br>
 ▪ 모든 기능은 비동기 방식(AJAX) 으로 동작 <br>
 
+<br>
+
 ## 4. 개발 포인트
 ▪ Spring MVC 패턴을 적용하여 Controller - DAO - Mapper 계층 구조로 설계 <br>
 ▪ AJAX 비동기 통신을 통해 페이지 새로고침 없이 CRUD 기능 구현 <br>
