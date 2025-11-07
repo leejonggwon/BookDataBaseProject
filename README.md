@@ -15,6 +15,8 @@
 ▪ 프론트엔드: JSP, jQuery, AJAX, HTML/CSS <br>
 ▪ 개발도구: eGovFrame 4.0.0, Eclipse, Apache Tomcat 9 <br>
 
+<br>
+
 ## 3. 주요기능 구성 
 ### 1) BookController / BookRestController
 ▪ BookController: 기본 페이지 이동, JSP 매핑 담당 <br>
