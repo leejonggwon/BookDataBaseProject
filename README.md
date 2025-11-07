@@ -39,7 +39,7 @@
 ## 기능설명
 ### 도서조회
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8cc643a3-7593-4b01-86e5-0fe48b80f52f" width="500" />
+  <img src="https://github.com/user-attachments/assets/8cc643a3-7593-4b01-86e5-0fe48b80f52f" width="1000" />
 </p>
 
 <br>
