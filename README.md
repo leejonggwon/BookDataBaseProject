@@ -14,7 +14,7 @@
 
 ### 1-4. 시연영상
 - abcdefg
-<br>1
+<br>
 
 ## 2. 개발환경
 - **Language:** Java (JDK 11 or higher)
