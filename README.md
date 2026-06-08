@@ -41,8 +41,17 @@
   [E-R Diagram]
 </p>
 
+<br>
+
+## 5. 기능구조도
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8bddfe88-dde1-4a2b-9f7e-5987aedfc96d" width=40% />
+  <br>
+  [기능구조도]
+</p>
 
 <br>
+
 
 ## 6. 개발 포인트
 - Spring MVC 패턴을 적용하여 Controller - DAO - Mapper 계층 구조로 설계 <br>
