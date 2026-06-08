@@ -32,10 +32,19 @@
 - 도서 목록을 테이블 형태로 표시 <br>
 - 오른쪽에 [등록], [수정], [삭제] 버튼 제공 <br>
 - 모든 기능은 비동기 방식(AJAX) 으로 동작 <br>
+<br>
+
+## 4. DataBase E-R Diagram
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/304ca394-8ae4-484b-8b0b-309718033ba7" width=40% />
+  <br>
+  [E-R Diagram]
+</p>
+
 
 <br>
 
-## 4. 개발 포인트
+## 6. 개발 포인트
 - Spring MVC 패턴을 적용하여 Controller - DAO - Mapper 계층 구조로 설계 <br>
 - AJAX 비동기 통신을 통해 페이지 새로고침 없이 CRUD 기능 구현 <br>
 - MyBatis Mapper XML을 활용해 SQL을 명확하게 관리 <br>
@@ -43,7 +52,7 @@
 
 <br>
 
-## 5. 페이지 별 기능
+## 7. 페이지 별 기능
 ### 1) 도서조회/삭제
 - 도서조회: 데이터베이스의 모든 도서 정보를 조회하여 테이블로 표시 <br>
 - 도서삭제: 삭제 버튼 클릭 시 비동기 요청으로 해당 도서 삭제 후 목록 재출력 <br>
