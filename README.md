@@ -13,11 +13,12 @@
 <br>
 
 ## 2. 개발환경
--  개발 언어: Java (JDK 11 이상) <br>
-- 프레임워크: Spring Framework 4.x / MyBatis <br>
-- 데이터베이스: MySQL <br>
-- 프론트엔드: JSP, jQuery, AJAX, HTML/CSS <br>
-- 개발도구: eGovFrame 4.0.0, Eclipse, Apache Tomcat 9 <br>
+- **Language:** Java (JDK 11 or higher)
+- **Framework:** Spring Framework 4.x / MyBatis
+- **Framework Platform:** eGovFrame 4.0.0 (Electronic Government Standard Framework)
+- **Database:** MySQL
+- **Frontend:** JSP, jQuery, AJAX, HTML5, CSS3
+- **Development Tools & Server:** Eclipse, Apache Tomcat 9.0
 <br>
 
 
