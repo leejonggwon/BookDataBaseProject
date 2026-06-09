@@ -13,7 +13,7 @@
 <br>
 
 ### 1-4. 시연영상
-- abcdefg
+https://youtu.be/yN5b0iKw05c
 <br>
 
 ## 2. 개발환경
